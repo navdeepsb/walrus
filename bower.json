@@ -1,0 +1,17 @@
+{
+  "name": "walrus",
+  "version": "0.0.0",
+  "homepage": "https://github.com/navdeepsb/walrus",
+  "authors": [
+    "Navdeep Singh Bagga <navdeepb3191@gmail.com>"
+  ],
+  "description": "Coming soon",
+  "main": "src/index.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
